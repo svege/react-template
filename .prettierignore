@@ -2,6 +2,8 @@
 .husky
 .next
 
+.commitlint.config.js
+
 build
 public
 node_modules

@@ -1,5 +1,5 @@
 .eslintrc.json
-./commitlint.config.js
+.commitlint.config.js
 
 .next
 .husky
