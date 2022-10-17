@@ -1,0 +1,8 @@
+.eslintrc.json
+./commitlint.config.js
+
+.next
+.husky
+
+public
+node_modules
